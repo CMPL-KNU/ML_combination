@@ -26,7 +26,7 @@ Datasets are not included.
 
 Authors
 -
-This code was primarily written by Donggeon Lee under the guidance of Professor Sooran Kim, and advised by Dr. Jiyeon Kim.
+This code was primarily written by Donggeon Lee under the guidance of Professor [Sooran Kim](https://orcid.org/0000-0001-9568-1838), and advised by Dr. [Jiyeon Kim](https://orcid.org/0000-0001-7088-3871).
 
  
   
