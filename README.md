@@ -1,4 +1,4 @@
-This is the repository of code and data for paper "Machine Learning Prediction Models for Solid Electrolytes based on Lattice Dynamics Properties"
+This is the repository of code for paper "Machine Learning Prediction Models for Solid Electrolytes based on Lattice Dynamics Properties"
 
 
 This codes are based on Python3, and require to install:
