@@ -27,8 +27,7 @@ Explanation
 This directory contains data on ionic conductivity, as well as the results from LR and RF models. \
 LR_combination_2024.csv : The highest accuracy scores according to the number of features.\
 RF_combination_2024.csv : The best prediction perfromance with RMSE and R2 values according to the number of features.\
-Ionic_cond_results_2024.csv : A list of calculated materials with ionic conductivity, LR results using the best 6-feature combination,\
- and RF results using the best 5-feature combination.
+Ionic_cond_results_2024.csv : A list of calculated materials with ionic conductivity, LR results using the best 6-feature combination, and RF results using the best 5-feature combination.
 
 
 
